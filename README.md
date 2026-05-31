@@ -54,6 +54,7 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI / LLM Integration](https://img.shields.io/badge/AI_LLM_Integration-000000?style=for-the-badge)
+![.Java](https://img.shields.io/badge/.Java-512BD4?style=for-the-badge&logo=.java&logoColor=white)
 
 ---
 
