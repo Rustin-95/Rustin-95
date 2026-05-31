@@ -1,8 +1,4 @@
-# 👋 Hello World! I'm Thomas Edson
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=30&center=true&vCenter=true&width=1000&lines=Front-End+Developer;Full+Stack+Developer;Back+End+Developer;Always+learning+new+technologies" />
-</p>
+# 👋 Hello World! I'm Alexandru Rustin
 
 ---
 
