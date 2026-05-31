@@ -83,7 +83,7 @@
 # GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=developer-thomas"/>
+<img src="https://streak-stats.demolab.com?user=Rustin-95"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@
 # Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-thomas"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rustin-95"/>
 </p>
 
 ---
