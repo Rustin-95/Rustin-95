@@ -8,17 +8,18 @@
 
 # About Me
 
-💻 Front-End Developer since **2022**  
-⚡ Specialized in building **responsive and scalable web interfaces**  
-🧠 Focused on **clean code, performance and maintainability**  
-🌍 Passionate about **technology and software development**
+💼 **Senior .NET Full Stack Developer with 8+ years of experience**
+🚀 **Helping companies build scalable, maintainable, and cost-effective software solutions**
+☁️ **Specialized in .NET, Azure Cloud, Angular, SQL Server, and Enterprise Architecture\**
+🤖 **Experienced with AI-powered applications, LLM integrations, and cloud-native systems**
+📍 **Based in Romania | Available for Remote Freelance & Contract Opportunities**
+💡 **Resilient by design, stubborn by nature.**
 
 ---
 
 # Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-edson-dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thomas.devp/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ro.linkedin.com/in/rustin-alexandru)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thomas-edson.com)
 
 ---
